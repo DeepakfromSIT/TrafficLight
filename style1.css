@@ -1,0 +1,50 @@
+div{
+    height: 102px;
+    width: 102px;
+    background-color: rgb(240, 240, 240);
+    /* border-width: 5px;
+    border-style: dashed;
+    border-color: cadetblue; */
+    border: 2px solid black;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;}
+
+
+h1{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    border-width: 3px;
+    border-color: blue;
+    border-style: dotted;
+    text-align: center;
+}
+
+#name{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(244, 46, 85);
+    border-radius: 50%;
+    text-align: left;
+}
+#baby{
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: rgb(77, 240, 77);
+    text-align: left;
+}
+
+#lata{
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    background-color: rgb(237, 237, 33);
+   text-align: left;
+   text-align: start;
+}
+#school{
+    height: 340px;
+    width: 115px;
+}
